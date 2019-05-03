@@ -7,6 +7,7 @@ __pycache__/
 */*.zip
 */.ipynb_checkpoints/
 */data/
+*/*.pdf
 
 # C extensions
 *.so
